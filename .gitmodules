@@ -1,0 +1,15 @@
+[submodule "scraper"]
+	path = scraper
+	url = https://github.com/kidharb/scraper.git
+[submodule "scheduler"]
+	path = scheduler
+	url = https://github.com/kidharb/scheduler.git
+[submodule "product"]
+	path = product
+	url = https://github.com/kidharb/product.git
+[submodule "product-db"]
+	path = product-db
+	url = https://github.com/kidharb/product-db.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/kidharb/frontend.git
